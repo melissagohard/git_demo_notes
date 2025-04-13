@@ -34,9 +34,9 @@ git merge <branch_name>
     - ``` git push origin <branch_name>```
 
 Continuing to use Git Notes
-    - ``` git add -A```
-    - ``` git commit -m "message"```
-    - ``` git tag -a <tag_name> -m "message"```
-    - ``` git merge <branch_name>```
-    - ``` git push origin <branch_name>```
-
+1. ``` git add -A```
+2. ``` git commit -m "message"```
+3. ``` git tag -a <tag_name> -m "message"```
+4. ``` git merge <branch_name>```
+5. ``` git push origin <branch_name>```
+6. ``` git push origin <branch_name> --tags```
