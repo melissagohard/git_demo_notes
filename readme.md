@@ -35,6 +35,6 @@ git add -A                  # Add all files
     - ``` git push origin <branch_name>```
 
 Continuing to use Git Notes
-``` git add -A```
-``` git commit -m "message"```
-``` git push origin <branch_name>```
+    - ``` git add -A```
+    - ``` git commit -m "message"```
+    - ``` git push origin <branch_name>```
